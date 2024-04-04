@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.page-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 56px;
+}
+.lasagna, .pizza, .piadina {
+    text-align: center;
+    font-weight: 100;
+    font-size: 32px;
+}
+.lasagna {
+    background-color: #07dd2b;
+}
+.pizza {
+    background-color: white;
+}
+.piadina {
+    background-color: red;
+}
+.statement {
+    text-align: center;
+    font-weight: lighter;
+}
+ li, h1, h3, h2, .description {
+    text-align: center;
+}
